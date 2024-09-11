@@ -1,0 +1,1 @@
+export const METERS_PAGE_COUNT = 20;
